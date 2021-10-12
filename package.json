@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Karius28/electron_sample#readme",
   "devDependencies": {
-    "electron": "^5.0.4",
+    "electron": "^11.5.0",
     "electron-builder": "^20.43.0"
   }
 }
